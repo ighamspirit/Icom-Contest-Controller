@@ -1,3 +1,4 @@
+![Fertig aufgebauter ICC mit hintergrundbeleuchtung](/Bilder/ICOM-Controller_3.jpg)
 # IGH Icom-Contest-Controller (ICC)
 Übernehmen Sie die volle Kontrolle über Ihr ICOM-Funkgerät mit Hilfe des **IGH Icom-Contest-Controller** (ICC). Einfach in der Bedienung – wird zwischen Mikrofon und Funkgerät geschaltet.
 
